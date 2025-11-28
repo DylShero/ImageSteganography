@@ -1,2 +1,5 @@
 #Files to ignore
 *.exe
+/build
+*.json
+*.png
